@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Vazquez</h1>
 <h3 align="center">A passionate student web developer from Mexico</h3>
 
-- 🌱 I’m currently focus **on javascript.**
+- 🌱I am currently learning web development at the moment focusing on **javascript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
